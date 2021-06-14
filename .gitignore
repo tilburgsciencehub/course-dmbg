@@ -1,7 +1,8 @@
-.DS_Store
+
 **/.ipynb_checkpoints
 **/reveal.js
 *.csv
 
 # Local Netlify folder
 .netlify
+.DS_Store
