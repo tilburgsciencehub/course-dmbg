@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://datamining.tilburgsciencehub.com"
 languageCode = "en-us"
 title = "Data Mining for Business and Government"
 theme = "hugo-for-tilburg"
