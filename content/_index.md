@@ -8,6 +8,10 @@ type: docs
 ## Introduction to the course
 Data Mining for Business and Governance will be accessible for all students (no technical background required). During the course, students will complete mandatory assignments in which they will train their basic data mining skills, gain insights from data, and conduct reproducible research. The assignments will be performed with open-source software (jupyter, pandas, and scikit-learn). There will be one midterm exam to ensure that students keep on track with the course contents. The course is completed with a written exam.
 
+## Watch the video lectures
+
+All the video lectures are freely available at **[this playlist](https://www.youtube.com/playlist?list=PLPzPs2eXJrCBWEf_DpIlJTZCBHtfxsAOj)** on the [Tilburg Science Hub YouTube channel](https://www.youtube.com/channel/UC0zcKJR8PdXxz0_2LKc0kVQ).
+
 ## Description of the contents
 Steadily increasing computing power, data sources, and connectivity have made data science an important component in both industry and parts of scientific research. This course offers an introduction to this intersection of statistics, computer science, and machine learning in various domains. Upon completion of the course, students will have acquired the skills necessary to collect, analyze, and interpret data. Additionally, students will be familiarized with a range of algorithms for automated decision making, and methods of critically evaluating their performance and impact on society.
 

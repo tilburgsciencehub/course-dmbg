@@ -7,7 +7,9 @@ weight: 6
 
 # Data Mining Course: Week 3.2
 
-## Best practices & common pitfalls 
+## Best Practices & Common Pitfalls
+
+{{< youtube NUuPBS3q1bI >}}
 
 Download the course slides [here](https://dmbg-course.s3.eu-central-1.amazonaws.com/lectures/week-3-2.pdf).
 

@@ -7,7 +7,9 @@ weight: 10
 
 # Data Mining Course: Week 6.1
 
-## Association mining
+## Association Mining
+
+{{< youtube fdQM3xlyE3Q >}}
 
 Download the course slides [here](https://dmbg-course.s3.eu-central-1.amazonaws.com/lectures/week-6-1.pdf).
 
