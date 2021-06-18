@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 3.2"
+title: "Week 3.2 - Best Practices & Common Pitfalls"
 bookHidden: false
 weight: 6
 ---

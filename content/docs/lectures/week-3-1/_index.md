@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 3.1"
+title: "Week 3.1 - Fitting, Tuning & Evaluation"
 bookHidden: false
 weight: 5
 ---

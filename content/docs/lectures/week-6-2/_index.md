@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 6.2"
+title: "Week 6.2 - Mining Massive Data"
 bookHidden: false
 weight: 11
 ---

@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 1.2"
+title: "Week 1.2 - Representing Data"
 bookHidden: false
 weight: 2
 ---

@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 5.2"
+title: "Week 5.2 - Unsupervised Learning"
 bookHidden: false
 weight: 9
 ---

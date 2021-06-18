@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 1.1"
+title: "Week 1.1 - Introduction to Data Science"
 bookHidden: false
 weight: 1
 ---

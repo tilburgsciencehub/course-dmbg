@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 6.1"
+title: "Week 6.1 - Association Mining"
 bookHidden: false
 weight: 10
 ---

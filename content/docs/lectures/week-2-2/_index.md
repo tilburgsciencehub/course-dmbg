@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 2.2"
+title: "Week 2.2 - Working with Text Data, Part 1"
 bookHidden: false
 weight: 4
 ---

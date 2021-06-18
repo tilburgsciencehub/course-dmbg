@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 5.1"
+title: "Week 5.1 - Dimensionality Reduction"
 bookHidden: false
 weight: 8
 ---

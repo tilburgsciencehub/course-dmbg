@@ -1,6 +1,6 @@
 ---
 bookFlatSection: false
-title: "Week 2.1"
+title: "Week 2.1 - Regression & Classification"
 bookHidden: false
 weight: 3
 ---
