@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Data Mining for Business and Government
+# Data Mining for Business and Governance
 
 ## Introduction to the course
 Data Mining for Business and Governance will be accessible for all students (no technical background required). During the course, students will complete mandatory assignments in which they will train their basic data mining skills, gain insights from data, and conduct reproducible research. The assignments will be performed with open-source software (jupyter, pandas, and scikit-learn). There will be one midterm exam to ensure that students keep on track with the course contents. The course is completed with a written exam.

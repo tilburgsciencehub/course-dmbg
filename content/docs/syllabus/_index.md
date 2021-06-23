@@ -5,7 +5,7 @@ bookHidden: false
 weight: 1
 ---
 
-# Data Mining for Business and Government syllabus
+# Data Mining for Business and Governance syllabus
 
 Download the course syllabus [here](https://dmbg-course.s3.eu-central-1.amazonaws.com/syllabus/Data-Mining-syllabus.pdf).
 
